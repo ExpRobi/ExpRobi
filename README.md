@@ -2,7 +2,7 @@
 - 👀 I’m live in Italy
 - 🌱 I’m currently learning I.T.I MARCONI
 
-[[!Stats](https://github-readme-stats.vercel.app/api?username=exprobi&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=exprobi&show_icons=true&theme=radical)
 
 Spotify Playing 🎧
 
