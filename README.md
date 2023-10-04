@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ExpRobi
 - 👀 I’m live in Italy
-- 🌱 I’m currently learning Vua & C#
+- 🌱 I’m currently learning Lua & C#
 
 ⚒️ Stats ⚒️
 
