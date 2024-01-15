@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ExpRobi
-- 👀 I’m live in Italy
+- 👀 I live in Italy
 - 🌱 I’m currently learning Lua & C#
 
 ⚒️ Stats ⚒️
