@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ExpRobi
 - 👀 I live in Italy
-- 🌱 I’m currently learning Lua & C#
+- 🌱 I’m currently learning AWS & Ruby 💎
 
 ⚒️ Stats ⚒️
 
